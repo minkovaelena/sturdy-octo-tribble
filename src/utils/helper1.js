@@ -1,4 +1,4 @@
-// Utility functions for repos_sturdy-octo-tribble
+// Utility functions for repos_hist_sturdy-octo-tribble_20250607
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
